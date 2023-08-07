@@ -845,7 +845,7 @@ footer {
   transition: all 0.5s;
 }
 .sidebar-wrapper .menu .sidebar-link:hover span {
-  color: rgb(255, 208, 0);
+  color: rgb(17, 75, 0);
 }
 .sidebar-wrapper .menu .sidebar-link > span {
   color: #fff;
@@ -874,7 +874,7 @@ footer {
   height: 100%;
   top: 0;
   bottom: 0;
-  background-color: rgb(255, 208, 0);
+  background-color: rgb(17, 75, 0);
   width: 5px;
 }
 .sidebar-wrapper .menu .submenu {
@@ -913,8 +913,8 @@ footer {
   margin-bottom: 2.2rem;
 }
 .card.card-statistic {
-  box-shadow: 1px 2px 5px rgba(47, 170, 244, 0.5);
-  background: linear-gradient(to bottom, #25a6f1, #54b9ff);
+  box-shadow: 1px 2px 5px #ff5100;
+  background: #ff5100;
   border: none;
 }
 .card.card-statistic .card-title {
@@ -959,7 +959,7 @@ footer {
   padding: 1.4rem 1.7rem;
 }
 .card .card-heading {
-  color: #555;
+  color: #555555;
   font-size: 1.5rem;
 }
 .card .card-img-overlay {
@@ -1002,12 +1002,12 @@ footer {
   margin-right: 7px;
 }
 .pricing .card-highlighted {
-  background-color: #5A8DEE;
+  background-color: #ff5100;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 .pricing .card-highlighted .card-header, .pricing .card-highlighted .card-body {
-  background-color: #5A8DEE;
+  background-color: #ff5100;
   color: #fff;
 }
 .pricing .card-highlighted ul li {
@@ -1017,7 +1017,7 @@ footer {
   color: tint-color(#28a745, 2);
 }
 .pricing .card-highlighted .card-footer {
-  background-color: #5A8DEE;
+  background-color: #ff5100;
 }
 .pricing .card-highlighted .card-title {
   color: #fff;
@@ -1026,7 +1026,7 @@ footer {
 
 /** 2.13 Navs **/
 .nav-pills .nav-link.active {
-  box-shadow: 0 2px 10px rgba(90, 141, 238, 0.5);
+  box-shadow: 0 2px 10px #ff5100;
 }
 
 .nav-tabs {
@@ -1050,7 +1050,7 @@ footer {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background-color: #5A8DEE;
+  background-color: #ff5100;
   left: 0;
   box-shadow: 0 2px 5px rgba(90, 141, 238, 0.5);
 }
